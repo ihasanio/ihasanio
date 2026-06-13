@@ -1,5 +1,5 @@
 <samp>
-  <h1 align="center" style="color:#06B6D4; text-shadow: 3px 4px 4px #0F172A;">Merhaba, Ben Hasan ✈️</h1>
+  <h1 align="center" style="color:#06B6D4; text-shadow: 3px 4px 4px #0F172A;">Merhaba, Ben Hasan ✈︎</h1>
 
   <p align="center">
     <a href="https://github.com/ihasanio"><img src="https://visitor-badge.laobi.icu/badge?page_id=ihasanio&left_text=Ziyaret%C3%A7i%20Say%C4%B1s%C4%B1" alt="Ziyaret"></a>
